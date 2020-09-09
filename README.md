@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+### Most Used Languages 💬
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&layout=compact&hide=csharp)
 
 <!--
