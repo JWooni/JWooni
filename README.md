@@ -1,3 +1,8 @@
+```
+Hello, My name is JWooni Kim.
+I working as a software developer.
+```
+
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,7 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-Hello, My name is JWooni Kim.
-I working as a software developer.
-```
+
