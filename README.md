@@ -19,7 +19,7 @@ I working as a software developer.
 ![jQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
