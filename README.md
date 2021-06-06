@@ -28,7 +28,8 @@ I working as a software developer.
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## ✨ Back-end Stack ✨
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=3178C6&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <!-- ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=white) -->
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)
 <!-- ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=white) -->
