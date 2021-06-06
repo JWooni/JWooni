@@ -4,7 +4,7 @@ I working as a software developer.
 ```
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JWooni&fontSize=70&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
+
 
 <p align="center">
   <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="30%" height="30%">
@@ -37,7 +37,7 @@ I working as a software developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwooni&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
 </p>
 <!--
 ###
