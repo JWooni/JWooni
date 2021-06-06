@@ -2,6 +2,7 @@
 Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
