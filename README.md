@@ -10,8 +10,9 @@ I working as a software developer.
   <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="30%" height="30%">
 </p>
 
-
+<p align="center">
 ## ✨ Front-end Stack ✨
+</p>  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
@@ -27,8 +28,9 @@ I working as a software developer.
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+<p align="center">
 ## ✨ Back-end Stack ✨
+</p>    
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node%2Ejs&logoColor=white)
