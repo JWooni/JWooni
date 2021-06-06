@@ -3,6 +3,8 @@ Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=3178C6&logo=Java&logoColor=white)
 ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)
