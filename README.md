@@ -7,7 +7,7 @@ I working as a software developer.
 
 <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif">
 
-<div>
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
@@ -22,7 +22,7 @@ I working as a software developer.
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)
 <!-- ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=white) -->
 ![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue.js&logoColor=white)
-</div>   
+   
 
 
 ### Hi there 👋
