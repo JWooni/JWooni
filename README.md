@@ -6,7 +6,7 @@ I working as a software developer.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
 
 
-<img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="50%" height="50%">
+<img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="30%" height="30%">
 
 ## ✨ Front-end Stack ✨
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
