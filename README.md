@@ -30,7 +30,7 @@ I working as a software developer.
 ## ✨ Back-end Stack ✨
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/static/v1?label=&message=Node%2Ejs&color=339933&logo=node.js&logoColor=white)
+
 
 
 ### Hi there 👋
