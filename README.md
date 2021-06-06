@@ -2,8 +2,6 @@
 Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=JWooni%20render&fontSize=90)
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
 
@@ -26,7 +24,7 @@ I working as a software developer.
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## ✨ Back-end Stack ✨
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=3178C6&logo=Java&logoColor=white)
