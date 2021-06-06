@@ -25,7 +25,7 @@ I working as a software developer.
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 ## ✨ Back-end Stack ✨
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=3178C6&logo=Java&logoColor=white)
