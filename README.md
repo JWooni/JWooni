@@ -10,27 +10,24 @@ I working as a software developer.
   <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="30%" height="30%">
 </p>
 
-<p align="center">
-## ✨ Front-end Stack ✨
-</p>  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue\%2Ejs&logoColor=white)
-![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next%2Ejs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
-![Eslint](https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
-<p align="center">
-## ✨ Back-end Stack ✨
-</p>    
+## ✨ Front-end Stack ✨
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue\%2Ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next%2Ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+
+## ✨ Back-end Stack ✨ 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node%2Ejs&logoColor=white)
