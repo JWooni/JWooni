@@ -2,7 +2,7 @@
 Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
-
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jwooni)
 
 <p align="center">
@@ -36,7 +36,7 @@ I working as a software developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
 
 
-
+</div>
 <!--
 ###
 [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=wjddns59)](https://solved.ac/)
