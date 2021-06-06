@@ -19,8 +19,8 @@ I working as a software developer.
 ![jQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue%21js&logoColor=white)
-![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue%2Ejs&logoColor=white)
+![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next%2Ejs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white)
@@ -30,7 +30,7 @@ I working as a software developer.
 ## ✨ Back-end Stack ✨
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node%2Ejs&color=339933&logo=node.js&logoColor=white)
 
 
 ### Hi there 👋
