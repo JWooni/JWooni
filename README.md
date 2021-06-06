@@ -8,7 +8,7 @@ I working as a software developer.
 
 <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif">
 
- <div>
+<div>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
@@ -24,7 +24,8 @@ I working as a software developer.
 <!-- ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=white) -->
 ![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue.js&logoColor=white)
 </div>   
-  
+
+<div>
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,3 +52,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</div> 
