@@ -29,12 +29,9 @@ I working as a software developer.
 
 ## ✨ Back-end Stack ✨
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<!-- ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=white) -->
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)
-<!-- ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=white) -->
 
-  
 
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
