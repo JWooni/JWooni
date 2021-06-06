@@ -36,7 +36,9 @@ I working as a software developer.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
 
-
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwooni&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 <!--
 ###
 [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=wjddns59)](https://solved.ac/)
