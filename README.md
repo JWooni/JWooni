@@ -2,14 +2,14 @@
 Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JWooni&fontSize=70&animation=twinkling)
 
 
+<div align="center">
 
-<p align="center">
+  
   <img src="http://file3.instiz.net/data/file3/2018/10/18/e/e/f/eefb98e45db62515c72114eb005e5f16.gif" width="30%" height="30%">
-</p>
 
 
 ## ✨ Front-end Stack ✨
