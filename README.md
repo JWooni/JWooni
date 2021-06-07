@@ -41,7 +41,6 @@ I working as a software developer.
   
 </p> 
 
-### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
 
@@ -55,6 +54,7 @@ I working as a software developer.
 -->
 
 <!--
+### Hi there 👋
 **Jwooni/JWooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
