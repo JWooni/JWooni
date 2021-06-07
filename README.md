@@ -40,7 +40,7 @@ I working as a software developer.
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node%2Ejs&logoColor=white"/>
   
 </p> 
-
+<hr/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
 
