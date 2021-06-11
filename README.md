@@ -38,6 +38,7 @@ I working as a software developer.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node%2Ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p> 
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
