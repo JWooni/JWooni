@@ -45,7 +45,7 @@ I working as a software developer.
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>  
 </p>  
   
