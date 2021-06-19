@@ -45,7 +45,7 @@ I working as a software developer.
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat&logo=/MsSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat&logo=MsSQL&logoColor=white"/>
 </p>  
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
