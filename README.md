@@ -29,7 +29,6 @@ I working as a software developer.
 <img src="https://img.shields.io/badge/Eslint-4B3263?style=flat&logo=Eslint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
   
 ## ✨ Back-end Stack ✨ 
@@ -48,6 +47,11 @@ I working as a software developer.
 <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>  
 </p>  
+  
+## ✨ Tool ✨ 
+<p align="center">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+</p>   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWooni&count_private=true&layout=compact&hide=csharp)
